@@ -1,0 +1,16 @@
+/Users/kirill/Desktop/C#/Pars/Pars/bin/Debug/netcoreapp3.1/Pars
+/Users/kirill/Desktop/C#/Pars/Pars/bin/Debug/netcoreapp3.1/Pars.deps.json
+/Users/kirill/Desktop/C#/Pars/Pars/bin/Debug/netcoreapp3.1/Pars.runtimeconfig.json
+/Users/kirill/Desktop/C#/Pars/Pars/bin/Debug/netcoreapp3.1/Pars.runtimeconfig.dev.json
+/Users/kirill/Desktop/C#/Pars/Pars/bin/Debug/netcoreapp3.1/Pars.dll
+/Users/kirill/Desktop/C#/Pars/Pars/bin/Debug/netcoreapp3.1/Pars.pdb
+/Users/kirill/Desktop/C#/Pars/Pars/bin/Debug/netcoreapp3.1/HtmlAgilityPack.dll
+/Users/kirill/Desktop/C#/Pars/Pars/obj/Debug/netcoreapp3.1/Pars.csproj.AssemblyReference.cache
+/Users/kirill/Desktop/C#/Pars/Pars/obj/Debug/netcoreapp3.1/Pars.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirill/Desktop/C#/Pars/Pars/obj/Debug/netcoreapp3.1/Pars.AssemblyInfoInputs.cache
+/Users/kirill/Desktop/C#/Pars/Pars/obj/Debug/netcoreapp3.1/Pars.AssemblyInfo.cs
+/Users/kirill/Desktop/C#/Pars/Pars/obj/Debug/netcoreapp3.1/Pars.csproj.CoreCompileInputs.cache
+/Users/kirill/Desktop/C#/Pars/Pars/obj/Debug/netcoreapp3.1/Pars.csproj.CopyComplete
+/Users/kirill/Desktop/C#/Pars/Pars/obj/Debug/netcoreapp3.1/Pars.dll
+/Users/kirill/Desktop/C#/Pars/Pars/obj/Debug/netcoreapp3.1/Pars.pdb
+/Users/kirill/Desktop/C#/Pars/Pars/obj/Debug/netcoreapp3.1/Pars.genruntimeconfig.cache

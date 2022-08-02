@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vtny8Qo/PeiVpSmnMhMLZAfYm9l0N/dFScjo9lzSYJLKaPKF3MqKMeNVL1i8SdB/8DBTMtOoMExugXiUyMJooQ==",
+  "success": true,
+  "projectFilePath": "/Users/kirill/Desktop/C#/Pars/Pars/Pars.csproj",
+  "expectedPackageFiles": [
+    "/Users/kirill/.nuget/packages/htmlagilitypack/1.11.43/htmlagilitypack.1.11.43.nupkg.sha512",
+    "/Users/kirill/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/kirill/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.26/microsoft.netcore.app.host.osx-x64.3.1.26.nupkg.sha512",
+    "/Users/kirill/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
